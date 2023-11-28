@@ -65,5 +65,3 @@ console.log();
 console.log('Users:');
 persons.filter(isUser).forEach(logPerson);
 
-// In case you are stuck:
-// https://www.typescriptlang.org/docs/handbook/2/narrowing.html#using-type-predicates

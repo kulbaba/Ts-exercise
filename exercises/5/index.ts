@@ -103,6 +103,3 @@ filterUsers(
     }
 ).forEach(logPerson);
 
-// In case you are stuck:
-// https://www.typescriptlang.org/docs/handbook/utility-types.html#partialtype
-// https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-8.html#predefined-conditional-types

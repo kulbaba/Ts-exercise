@@ -165,6 +165,3 @@ startTheApp((e: Error | null) => {
         console.log('Success!');
     }
 });
-
-// In case you are stuck:
-// https://www.typescriptlang.org/docs/handbook/2/generics.html

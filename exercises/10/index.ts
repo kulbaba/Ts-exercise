@@ -141,6 +141,3 @@ startTheApp().then(
         console.log(`Error: "${e.message}", but it's fine, sometimes errors are inevitable.`);
     }
 );
-
-// In case you are stuck:
-// https://www.typescriptlang.org/docs/handbook/2/generics.html

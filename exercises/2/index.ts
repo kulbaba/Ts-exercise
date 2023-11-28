@@ -61,5 +61,3 @@ export function logPerson(user: User) {
 
 persons.forEach(logPerson);
 
-// In case you are stuck:
-// https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types
